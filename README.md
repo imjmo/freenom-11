@@ -711,5 +711,5 @@ cd /data/wwwroot/freenom/ && php run
 - [秋水逸冰](https://teddysun.com/569.html) （本项目 Docker 相关文档有参考秋水逸冰的文章）
 
 ### 🥝 开源协议
-
+6
 [MIT](https://opensource.org/licenses/mit-license.php)
